@@ -63,6 +63,7 @@ dist
 .tmp
 
 # deploy keys
+.ssh
 credentials.json
 
 # app ignores
