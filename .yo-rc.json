@@ -1,0 +1,16 @@
+{
+  "generator-angular-dft": {
+    "user": "sajera",
+    "appName": "js_10_17",
+    "appVersion": "0.0.1",
+    "cssFramework": null,
+    "modules": {
+      "root": "jsapp"
+    },
+    "instalation": "complete",
+    "preprocessors": {
+      "css": "less",
+      "js": null
+    }
+  }
+}
