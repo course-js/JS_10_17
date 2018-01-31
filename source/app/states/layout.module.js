@@ -8,7 +8,8 @@ angular
      */
     .module('jsapp.layout', [
         'layout.home',
-        'layout.salnikov'
+        'layout.salnikov',
+        'layout.shlyahov'
     ])
 
     .config( function ( $stateProvider ) {
