@@ -9,6 +9,7 @@ angular
     .module('jsapp.layout', [
         'layout.home',
         'layout.salnikov',
+        'layout.shlyahov',
         'layout.psv',
     ])
 

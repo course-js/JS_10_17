@@ -31,7 +31,11 @@ angular
                     name: 'Unknown 3',
                     state: null,
                     image: './assets/images/unknown user.png',
-                },
+                }, {
+                    name: 'Shlyahov',
+                    state: 'layout.shlyahov',
+                    image: 'https://c1.staticflickr.com/9/8170/8049613589_7ce9727537.jpg',
+                }
             ]
         };
 
