@@ -1,0 +1,25 @@
+<div id="chotiy" class="container">
+
+    <div class="jumbotron text-center">
+        <h1>Good Day</h1>
+        <p class="lead">
+            <img src="https://www.maxim.com/.image/t_share/MTM1MzA2NjcxNTkyNTE2MjI3/4-sports-franchises-less-film-worthy-than-the-cleveland-browns.jpg" alt="alt placeholder">
+            <br> some placeholder
+        </p>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6 col-md-4" data-ng-repeat="item in vm.connections | orderBy:'rank' ">
+            <div class="thumbnail">
+                <img class="pull-right" width="90" data-ng-src="{{ item.logo }}" alt="{{ awesomeThing.title }}">
+                <div class="caption">
+                    <h3>
+                        <a target="_blank" data-ng-href="{{item.url}}">{{ item.name }}</a>
+                    </h3>
+                    <p>{{ item.description }}</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+</div>
