@@ -1,0 +1,22 @@
+<div class="container">
+	
+	<div class="row line ttlBlock">
+		<div class="col-xs-12">
+			<h1 class="ttl">Привет!!1</h1>
+		</div>
+	</div>
+
+    <div class="row line">
+    	<div class="col-md-6 md-line" data-ng-repeat="item in vm.connections | orderBy:'rank' ">
+	    	<img data-ng-src="{{ item.logo }}" alt="{{ alt.title }}">
+	    	<h2>{{ item.ttl }}</h2>
+	    	<p>{{ item.text }}</p>
+	    </div>
+	    <div class="col-md-6 md-line" data-ng-repeat="item in nn.connections | orderBy:'rank' ">
+	    	<img data-ng-src="{{ item.logo }}" alt="{{ alt.title }}">
+	    	<h2>{{ item.ttl }}</h2>
+	    	<p>{{ item.text }}</p>
+	    </div>
+    </div>
+
+</div>
