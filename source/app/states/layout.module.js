@@ -7,7 +7,8 @@ angular
      * structure dependencies application
      */
     .module('jsapp.layout', [
-        'layout.home'
+        'layout.home',
+        'layout.salnikov'
     ])
 
     .config( function ( $stateProvider ) {
