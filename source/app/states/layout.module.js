@@ -11,6 +11,7 @@ angular
         'layout.salnikov',
         'layout.shlyahov',
         'layout.psv',
+        'layout.dieieva'
     ])
 
     .config( function ( $stateProvider ) {
