@@ -20,9 +20,9 @@ angular
                     state: 'layout.salnikov',
                     image: 'https://avatars1.githubusercontent.com/u/28953211',
                 }, {
-                    name: 'Unknown 1',
-                    state: null,
-                    image: './assets/images/unknown user.png',
+                    name: 'Pipa',
+                    state: 'layout.psv',
+                    image: 'https://avatars0.githubusercontent.com/u/33943839?s=40&v=4',
                 }, {
                     name: 'Unknown 2',
                     state: null,
