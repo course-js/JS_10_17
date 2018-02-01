@@ -35,6 +35,10 @@ angular
                     name: 'Shlyahov',
                     state: 'layout.shlyahov',
                     image: 'https://c1.staticflickr.com/9/8170/8049613589_7ce9727537.jpg',
+                }, {
+                    name: 'Apaleev',
+                    state: 'layout.apaleev',
+                    image: 'https://avatars2.githubusercontent.com/u/34216826?s=460&v=4',
                 }
             ]
         };
