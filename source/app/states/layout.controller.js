@@ -24,9 +24,9 @@ angular
                     state: 'layout.psv',
                     image: 'https://avatars0.githubusercontent.com/u/33943839?s=40&v=4',
                 }, {
-                    name: 'Unknown 2',
-                    state: null,
-                    image: './assets/images/unknown user.png',
+                    name: 'Dieieva',
+                    state: 'layout.dieieva',
+                    image: 'https://avatars2.githubusercontent.com/u/33932873?s=400&v=4',
                 }, {
                     name: 'Chotiy',
                     state: 'layout.chotiy',
