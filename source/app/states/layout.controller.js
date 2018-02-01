@@ -24,13 +24,13 @@ angular
                     state: 'layout.psv',
                     image: 'https://avatars0.githubusercontent.com/u/33943839?s=40&v=4',
                 }, {
-                    name: 'Unknown 2',
-                    state: null,
-                    image: './assets/images/unknown user.png',
+                    name: 'Dieieva',
+                    state: 'layout.dieieva',
+                    image: 'https://avatars2.githubusercontent.com/u/33932873?s=400&v=4',
                 }, {
-                    name: 'Unknown 3',
-                    state: null,
-                    image: './assets/images/unknown user.png',
+                    name: 'Chotiy',
+                    state: 'layout.chotiy',
+                    image: 'https://avatars1.githubusercontent.com/u/15904391',
                 }, {
                     name: 'Shlyahov',
                     state: 'layout.shlyahov',
