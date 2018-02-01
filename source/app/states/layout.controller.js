@@ -20,18 +20,22 @@ angular
                     state: 'layout.salnikov',
                     image: 'https://avatars1.githubusercontent.com/u/28953211',
                 }, {
-                    name: 'Chotiy',
-                    state: 'layout.chotiy',
-                    image: 'https://avatars1.githubusercontent.com/u/15904391',
+                    name: 'Pipa',
+                    state: 'layout.psv',
+                    image: 'https://avatars0.githubusercontent.com/u/33943839?s=40&v=4',
                 }, {
                     name: 'Unknown 2',
                     state: null,
                     image: './assets/images/unknown user.png',
                 }, {
-                    name: 'Unknown 3',
-                    state: null,
-                    image: './assets/images/unknown user.png',
-                },
+                    name: 'Chotiy',
+                    state: 'layout.chotiy',
+                    image: 'https://avatars1.githubusercontent.com/u/15904391',
+                }, {
+                    name: 'Shlyahov',
+                    state: 'layout.shlyahov',
+                    image: 'https://c1.staticflickr.com/9/8170/8049613589_7ce9727537.jpg',
+                }
             ]
         };
 

@@ -9,7 +9,9 @@ angular
     .module('jsapp.layout', [
         'layout.home',
         'layout.salnikov',
-        'layout.chotiy'
+        'layout.shlyahov',
+        'layout.psv',
+        'layout.chotiy', 
     ])
 
     .config( function ( $stateProvider ) {
