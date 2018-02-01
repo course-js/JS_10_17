@@ -28,9 +28,9 @@ angular
                     state: null,
                     image: './assets/images/unknown user.png',
                 }, {
-                    name: 'Unknown 3',
-                    state: null,
-                    image: './assets/images/unknown user.png',
+                    name: 'Chotiy',
+                    state: 'layout.chotiy',
+                    image: 'https://avatars1.githubusercontent.com/u/15904391',
                 }, {
                     name: 'Shlyahov',
                     state: 'layout.shlyahov',
