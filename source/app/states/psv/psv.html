@@ -1,0 +1,19 @@
+<div id="psv" class="container">
+
+	<h1>Hello I am Pipa Stanislav</h1>
+	<h2>It is the best films of 2017</h2>
+	<h3>enjoy</h3>
+
+	<div class="row">
+		<div class="col-sm-6 col-md-4" data-ng-repeat="item in vm.connections | orderBy:'rank' ">
+			<div class="thumbnail list">
+				<div class="caption">
+					<h4><a target="_blank" data-ng-href="{{item.url}}">{{ item.name }}</a></h4>
+					<p>{{ item.description }}</p>
+				</div>
+
+				<img style=" width: 100%; height: 500px;" data-ng-src="{{ item.logo }}" alt="{{ awesomeThing.title }}">
+			</div>
+		</div>
+	</div>
+</div>
