@@ -6,7 +6,8 @@ angular
     .module('layout.max')
 
     .controller('maxController', function ( $scope, fromRoot ) {
-    	var vm = $scope.vm = {
+
+        var vm = $scope.vm = {
             fromRoot: fromRoot,
             connections: [
                 {

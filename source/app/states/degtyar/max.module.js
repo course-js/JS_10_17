@@ -11,8 +11,8 @@ angular
 
         $stateProvider.state('layout.max', {
             url: '/max',
-            templateUrl: 'app/states/max/max.html',
             controller: 'maxController',
+            templateUrl: 'app/states/degtyar/max.html',
             /**
             *
             */
