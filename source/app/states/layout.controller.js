@@ -39,6 +39,10 @@ angular
                     name: 'Apaleev',
                     state: 'layout.apaleev',
                     image: 'https://avatars2.githubusercontent.com/u/34216826?s=460&v=4',
+                }, {
+                    name: 'Degtyar',
+                    state: 'layout.max',
+                    image: './assets/images/unknown user.png',
                 }
             ]
         };
