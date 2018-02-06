@@ -1,0 +1,14 @@
+<div id="logvinovM" class="container">
+
+	<h1>Adwertisment of the witcher</h1>
+	<hr>
+	<div>
+    	<div data-ng-repeat="item in vm.connections | orderBy:'rank' ">
+	    	<img data-ng-src="{{ item.logo }}" alt="{{ item.title }}">
+	    	<h3>{{ item.title }}</h2>
+	    	<h4>{{ item.author }}</h3>
+	    	<p>{{ item.text }}</p>
+	    </div>
+    </div>
+	<hr>
+</div>
