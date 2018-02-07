@@ -35,6 +35,18 @@ angular
                     name: 'Shlyahov',
                     state: 'layout.shlyahov',
                     image: 'https://c1.staticflickr.com/9/8170/8049613589_7ce9727537.jpg',
+                }, {
+                    name: 'Apaleev',
+                    state: 'layout.apaleev',
+                    image: 'https://avatars2.githubusercontent.com/u/34216826?s=460&v=4',
+                }, {
+                    name: 'Degtyar',
+                    state: 'layout.max',
+                    image: './assets/images/unknown user.png',
+                }, {
+                    name: 'Logvinov',
+                    state: 'layout.logvinovM',
+                    image: 'https://pp.userapi.com/c604627/v604627097/36441/CWK5nfzQxHc.jpg',
                 }
             ]
         };
