@@ -15,6 +15,7 @@ angular
         'layout.home',
         'layout.psv',
         'layout.max',
+        'layout.logvinovM',
     ])
 
     .config( function ( $stateProvider ) {

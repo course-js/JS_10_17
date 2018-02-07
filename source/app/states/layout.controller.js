@@ -43,6 +43,10 @@ angular
                     name: 'Degtyar',
                     state: 'layout.max',
                     image: './assets/images/unknown user.png',
+                }, {
+                    name: 'Logvinov',
+                    state: 'layout.logvinovM',
+                    image: 'https://pp.userapi.com/c604627/v604627097/36441/CWK5nfzQxHc.jpg',
                 }
             ]
         };
