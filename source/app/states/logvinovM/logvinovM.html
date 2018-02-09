@@ -1,14 +1,13 @@
-<div id="logvinovM" class="container">
-
-	<h1>Adwertisment of the witcher</h1>
-	<hr>
-	<div>
-    	<div data-ng-repeat="item in vm.connections | orderBy:'rank' ">
-	    	<img data-ng-src="{{ item.logo }}" alt="{{ item.title }}">
-	    	<h3>{{ item.title }}</h2>
-	    	<h4>{{ item.author }}</h3>
-	    	<p>{{ item.text }}</p>
-	    </div>
-    </div>
-	<hr>
+<div id="logvinovM">
+	<h1>Heroes of "The Witcher"</h1>
+    <div data-ng-repeat="item in vm.connections | orderBy:'rank' ">
+		<img class="logvinov-logo" data-ng-src="{{ item.logo }}" alt="{{ item.title }}">
+		<h3>Name: {{ item.title }}</h2>
+		<h4>Class: {{ item.author }}</h3>
+	    	<table>
+	    		<td>
+	    			<p>Info: {{ item.text }}</p>
+	   			</td>
+	    	</table>
+	</div>
 </div>
